@@ -1,16 +1,17 @@
-### Hi there 👋
+[![bg][banner]][website]
+### Brian Childress
 
-<!--
-**brian-childress/brian-childress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Grader](https://grader.dev/), [webappsecurity.io](https://webappsecurity.io/)
+- 💬 Ask me about Application Security, Development Best Practices, Full Stack Development
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+👔 [linkedin][linkedin]
+
+[banner]: https://raw.githubusercontent.com/brian-childress/brian-childress/master/bchildress-banner.png
+[website]: https://brianchildress.co/
+[twitter]: https://twitter.com/_brianchildress
+[youtube]: https://www.youtube.com/channel/UCIsISlDIoqmBw_ZbQtOPujQ
+[linkedin]: https://www.linkedin.com/in/brian-childress/
