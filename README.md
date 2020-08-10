@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on [Grader](https://grader.dev/), [webappsecurity.io](https://webappsecurity.io/)
 - 💬  Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Find the Newest File in Directory Using NodeJS](https://brianchildress.co/find-latest-file-in-directory-in-nodejs/)**
+- Read my latest blog post: **[Updating GIT credentials in Command Line](https://brianchildress.co/update-git-credentials-command-line/)**
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
