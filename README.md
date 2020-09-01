@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on [Grader](https://grader.dev/), [webappsecurity.io](https://webappsecurity.io/)
 - 💬  Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Updating GIT credentials in Command Line](https://brianchildress.co/update-git-credentials-command-line/)**
+- Read my latest blog post: **[Tracking a User's Social Logins in your Database](https://brianchildress.co/tracking-users-social-logins-in-database/)**
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
