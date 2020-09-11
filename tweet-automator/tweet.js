@@ -10,6 +10,7 @@ const client = new Twitter({
   access_token_key: process.env.ACCESS_TOKEN,
   access_token_secret: process.env.ACCESS_TOKEN_SECRET,
 });
+console.log(client.consumer_key);
 
 // get RSS feed
 const parser = new Parser();
