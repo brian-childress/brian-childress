@@ -12,12 +12,14 @@ jobs:
   build-and-tweet:
     runs-on: ubuntu-latest
     steps:
+      - name: Clone Repository
+        uses: actions/checkout@v2
       - name: Run Tweet Automator
         uses: actions/setup-node@v1
         with:
           node-version: "12"
+      - run: cd ${GITHUB_WORKSPACE}/tweet-automator/
       - run: ls -la
-      # - run: cd ${GITHUB_WORKSPACE}/tweet-automator/
       - name: Install dependencies
         run: npm install
       - name: Send Tweet
