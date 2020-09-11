@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on [Grader](https://grader.dev/), [webappsecurity.io](https://webappsecurity.io/)
 - 💬  Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Fuzzy Search Directory in Terminal](https://brianchildress.co/fuzzy-search-in-terminal/)**
+- Read my latest blog post: **[Launching a Podcast](https://brianchildress.co/launching-a-podcast/)**
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
