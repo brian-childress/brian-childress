@@ -1,0 +1,24 @@
+name: share-tweet
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 10 * * *"
+
+jobs:
+  build-and-tweet:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [8.x, 10.x, 12.x]
+
+    steps:
+      - name: Run Tweet Automator
+        uses: actions/setup-node@v1
+      - run: cd ${GITHUB_WORKSPACE}/tweet-automator/
+      - name: Install dependencies
+        run: npm install
+      - name: Send Tweet
+        run: node tweet.js
