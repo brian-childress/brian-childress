@@ -18,14 +18,14 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: "12"
-      - run: cd ${GITHUB_WORKSPACE}/tweet-automator/
-      - run: ls -la
-      - name: Install dependencies
-        run: npm install
-      - name: Send Tweet
-        run: node tweet.js
+      - run: 
         env:
           API_KEY: ${{secrets.TWITTER_API_KEY}}
           API_SECRET_KEY: ${{secrets.TWITTER_API_SECRET_KEY}}
           ACCESS_TOKEN: ${{secrets.TWITTER_ACCESS_TOKEN}}
           ACCESS_TOKEN_SECRET: ${{secrets.TWITTER_ACCESS_TOKEN_SECRET}}
+          | 
+        cd ${GITHUB_WORKSPACE}/tweet-automator/
+        ls -la
+        npm install
+        node tweet.js
