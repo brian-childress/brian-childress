@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on [Grader](https://grader.dev/), [webappsecurity.io](https://webappsecurity.io/)
 - 💬  Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Return to a Scroll Position on Page Refresh](https://brianchildress.co/resume-page-position-on-refresh/)**
+- Read my latest blog post: **[Puppeteer Max Timeout Error - Workaround](https://brianchildress.co/puppeteer-max-timeout-error/)**
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
