@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on [Grader](https://grader.dev/), [webappsecurity.io](https://webappsecurity.io/)
 - 💬  Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Lessons Learned from Island Living](https://brianchildress.co/lessons-learned-from-island-living/)**
+- Read my latest blog post: **[Export PostgreSQL Database from Docker Container](https://brianchildress.co/export-database-from-docker/)**
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
