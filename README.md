@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on [Grader](https://grader.dev/), [webappsecurity.io](https://webappsecurity.io/)
 - 💬  Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Troubleshooting Alpine Docker Images](https://brianchildress.co/troubleshoot-alpine-docker-images/)**
+- Read my latest blog post: **[Variables in Bash Alias](https://brianchildress.co/variables-in-bash-alias/)**
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
