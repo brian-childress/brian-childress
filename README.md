@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on [Grader](https://grader.dev/), [webappsecurity.io](https://webappsecurity.io/)
 - 💬  Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[2020: Looking Back While Looking Forward](https://brianchildress.co/2020-looking-back-while-looking-forward/)**
+- Read my latest blog post: **[Searching GIT Logs for Sensitive Data](https://brianchildress.co/search-git-logs-for-sensitive-data/)**
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
