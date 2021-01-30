@@ -1,15 +1,15 @@
 [![bg][banner]][website]
 ### Brian Childress
 
-- 🔭  I’m currently working on [Grader](https://grader.dev/), [webappsecurity.io](https://webappsecurity.io/)
+- 🔭  I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  Ask me about Application Security, Development Best Practices, Full Stack Development
 - Read my latest blog post: **[Encoding / Decoding base64 Strings in the Terminal](https://brianchildress.co/encoding-decoding-base64-terminal/)**
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎙️ [podcast][podcast] **|** 
-👔 [linkedin][linkedin]
+🏡  [website][website] **|** 
+🐦  [twitter][twitter] **|** 
+📺  [youtube][youtube] **|** 
+🎙️  [podcast][podcast] **|** 
+👔  [linkedin][linkedin]
 
 [banner]: https://raw.githubusercontent.com/brian-childress/brian-childress/master/bchildress-banner.png
 [website]: https://brianchildress.co/
