@@ -1,8 +1,8 @@
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎙️ [podcast][podcast] **|** 
-👔 [linkedin][linkedin]
+🏡  &nbsp; [website][website] **|** 
+🐦  &nbsp; [twitter][twitter] **|** 
+📺  &nbsp; [youtube][youtube] **|** 
+🎙️  &nbsp; [podcast][podcast] **|** 
+👔  &nbsp; [linkedin][linkedin]
 
 [banner]: https://raw.githubusercontent.com/brian-childress/brian-childress/master/bchildress-banner.png
 [website]: https://brianchildress.co/
