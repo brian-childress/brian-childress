@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Encoding / Decoding base64 Strings in the Terminal](https://brianchildress.co/encoding-decoding-base64-terminal/)**
+- Read my latest blog post: **[Getting Bookmarks to Work with Auth0 Login](https://brianchildress.co/getting-bookmarks-to-work-with-auth0-login/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
