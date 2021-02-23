@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Getting Bookmarks to Work with Auth0 Login](https://brianchildress.co/getting-bookmarks-to-work-with-auth0-login/)**
+- Read my latest blog post: **[Application With Identifier Not Found: Azure Error](https://brianchildress.co/application-with-identifier-not-found-azure-error/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
