@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Application With Identifier Not Found: Azure Error](https://brianchildress.co/application-with-identifier-not-found-azure-error/)**
+- Read my latest blog post: **[Terraform 403: Access Denied Error](https://brianchildress.co/terraform-403-access-denied-error/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
