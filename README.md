@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Terraform 403: Access Denied Error](https://brianchildress.co/terraform-403-access-denied-error/)**
+- Read my latest blog post: **[Configuration and Secrets Management](https://brianchildress.co/configuration-and-secrets-management/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
