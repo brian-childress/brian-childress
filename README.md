@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[What Does it Mean to be a Senior Developer?](https://brianchildress.co/what-does-it-mean-to-be-a-senior-developer/)**
+- Read my latest blog post: **[Tools I Use](https://brianchildress.co/uses/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
