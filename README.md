@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Tools I Use](https://brianchildress.co/uses/)**
+- Read my latest blog post: **[Multipass: Mount Host Volume](https://brianchildress.co/multipass-mount-host-volume/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
