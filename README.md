@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[MacOS: error: xcrun invalid active developer path](https://brianchildress.co/mac-os-xcrun-invalid-active-developer-path/)**
+- Read my latest blog post: **[GIT: Fatal Ambiguous Argument, Branch and Filename](https://brianchildress.co/git-fatal-ambiguous-argument-both-branch-and-filename/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
