@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[GIT: Fatal Ambiguous Argument, Branch and Filename](https://brianchildress.co/git-fatal-ambiguous-argument-both-branch-and-filename/)**
+- Read my latest blog post: **[Useful Git Snippets](https://brianchildress.co/useful-git-snippets/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
