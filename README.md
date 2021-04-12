@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Useful Git Snippets](https://brianchildress.co/useful-git-snippets/)**
+- Read my latest blog post: **[GIT: Force Overwrite of Local File with Remote File](https://brianchildress.co/git-force-overwrite-of-local-file-with-remote/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
