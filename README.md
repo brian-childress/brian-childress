@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[GIT: Force Overwrite of Local File with Remote File](https://brianchildress.co/git-force-overwrite-of-local-file-with-remote/)**
+- Read my latest blog post: **[Update an Object Using the Spread Operator](https://brianchildress.co/update-object-using-the-spread-operator-javascript/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
