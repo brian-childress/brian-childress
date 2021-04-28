@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Change a Column Type in Postgres](https://brianchildress.co/change-column-type-postgres/)**
+- Read my latest blog post: **[Reorder Columns in Postgres](https://brianchildress.co/reorder-columns-postgres/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
