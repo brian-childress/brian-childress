@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Reorder Columns in Postgres](https://brianchildress.co/reorder-columns-postgres/)**
+- Read my latest blog post: **[NodeJS Troubleshooting Endpoint](https://brianchildress.co/nodejs-troubleshooting-endpoint/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
