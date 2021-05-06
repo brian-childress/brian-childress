@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[NodeJS Troubleshooting Endpoint](https://brianchildress.co/nodejs-troubleshooting-endpoint/)**
+- Read my latest blog post: **[Parse JSON Values Using Grep](https://brianchildress.co/parse-json-using-grep/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
