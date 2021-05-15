@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Call Localhost on Host from Docker Container](https://brianchildress.co/call-localhost-on-host-from-docker-container/)**
+- Read my latest blog post: **[Serverless Framework and Serverless Offline Error: POST Request Not Responding](https://brianchildress.co/serverless-framework-post-request-not-responding/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
