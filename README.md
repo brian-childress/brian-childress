@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Serverless Framework and Serverless Offline Error: POST Request Not Responding](https://brianchildress.co/serverless-framework-post-request-not-responding/)**
+- Read my latest blog post: **[Download an Entire Website Using wget](https://brianchildress.co/download-entire-website-with-wget/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
