@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Hiding JavaScript Files in VS Code](https://brianchildress.co/hide-javascript-files-vscode/)**
+- Read my latest blog post: **[VS Code Shortcuts](https://brianchildress.co/vscode-shortcuts/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
