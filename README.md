@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[VS Code Shortcuts](https://brianchildress.co/vscode-shortcuts/)**
+- Read my latest blog post: **[ESLint Out of Memory Error](https://brianchildress.co/eslint-out-of-memory-error/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
