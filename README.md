@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[ESLint Out of Memory Error](https://brianchildress.co/eslint-out-of-memory-error/)**
+- Read my latest blog post: **[Generate an Object from an Array of Objects](https://brianchildress.co/generate-object-from-array-of-objects/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
