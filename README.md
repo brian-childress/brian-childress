@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Generate an Object from an Array of Objects](https://brianchildress.co/generate-object-from-array-of-objects/)**
+- Read my latest blog post: **[Troubleshooting Major Version Upgrade: AWS Aurora](https://brianchildress.co/major-version-upgrade-aws-aurora/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
