@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Should I Stay Or Should I Go?](https://brianchildress.co/should-I-stay-or-should-I-go/)**
+- Read my latest blog post: **[Sending an Array of Values in a GET Request](https://brianchildress.co/sending-array-of-values-in-get-request/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
