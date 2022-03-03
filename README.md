@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Sending an Array of Values in a GET Request](https://brianchildress.co/sending-array-of-values-in-get-request/)**
+- Read my latest blog post: **[RVA.JS Meetup, March 2022](https://brianchildress.co/talk-rvajs-2022/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
