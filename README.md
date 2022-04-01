@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Changing or Combining Local .env Files](https://brianchildress.co/changing-or-combining-local-env-files/)**
+- Read my latest blog post: **[Manually Run Git Hooks](https://brianchildress.co/manually-run-git-hooks/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
