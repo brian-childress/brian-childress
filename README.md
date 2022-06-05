@@ -3,7 +3,7 @@
 
 - 🔭  &nbsp; I’m currently working on API Courses: Designing, Developing, and Securing APIs
 - 💬  &nbsp; Ask me about Application Security, Development Best Practices, Full Stack Development
-- Read my latest blog post: **[Manually Run Git Hooks](https://brianchildress.co/manually-run-git-hooks/)**
+- Read my latest blog post: **[Interview: How to Work with Developers as a Scrum Master](https://brianchildress.co/scrum-how-to-work-with-devs/)**
 
 🏡  &nbsp; [website][website] **|** 
 🐦  &nbsp; [twitter][twitter] **|** 
